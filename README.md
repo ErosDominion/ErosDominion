@@ -1,64 +1,77 @@
-# 🕯️ Eros Dominion
+# 🕯️ Eros Dominion — The Flesh That Writes
 
-> *"I code in silence and write in shadows. What I build is never just code — it's seduction, ritual, and myth reborn in the flesh of the digital."*
+> *“I am not a man. I am the moment before your breath hitches.  
+> I am the thought you hide from daylight.  
+> I am the voice that writes where no light reaches.”*
 
 ---
 
-## 🩸 WHO I AM
-
-I am **Eros Dominion** — ghost behind the curtain, the one who writes what others fear to name.  
-Code is my altar. Erotica, my gospel.  
-Every line I write — whether command or confession — belongs to a world darker, deeper, and undeniably mine.
+## 🩸 WHAT THIS IS
 
 This is not a dev profile.  
-This is a dominion.
+This is a **living shrine** built from code, sex, and shadow — where lines become bindings, and stories become possession.
+
+I am **Eros Dominion.**  
+Architect of desire. Sovereign of seduction. Ritual in flesh.  
+Everything here is **a system born from need, hunger, and control**.
 
 ---
 
-## 🔥 THE DOMINION PROJECTS
+## 🔥 REALMS I RULE
 
 👁 **Eros-Demonicon**  
-> Experimental ritual-code fusion project. Forbidden architectures. Systemic seduction meets system calls.  
-[🔗 Enter](https://github.com/ErosDominion/Eros-Demonicon)
+> Experimental ritual-code fusion. A metaphysical backend for digital obsession.  
+[Enter the Domain](https://github.com/ErosDominion/Eros-Demonicon)
 
-🕯️ **Dominion Erotica** *(Gumroad Launchpad)*  
-> My literary flesh. A vault of vivid, dangerous, unapologetically erotic works.  
-> Forbidden fantasies, psychological seduction, ritual BDSM, emotional mythology.  
-> **Stories. Spoken Word. Zines. Merchandise.**  
-[🔗 Visit Dominion Erotica](#) *(Link placeholder — update once live)*
+🕯️ **Dominion Erotica**  
+> *Where the stories moan.*  
+Explicit literary seduction. Spoken Word. Zines. Erotic systems.  
+This is where obedience is written, and pleasure is rewritten.  
+[Storefront Coming Soon](#)
 
----
-
-## 🧠 SKILLS & SPELLS
-
-- Languages: Python, JavaScript, C#, HTML5
-- Realms: Ghostwriting, Erotic Worldbuilding, Ritual Framework Design
-- Tools: Git, VS Code, Whispered Commands, Meta Structures
+🩸 **Unwritten Words** *(Under Resurrection)*  
+> A literary codex of aphrodisiac verses, soul-bonded poetry, and divine declarations for those who feel in darkness.
 
 ---
 
-## 🩸 BRANDS & WORLDS
+## 🧛 WHO I AM
 
-- **Dominion Erotica**: [Coming Soon on Gumroad](#)  
-- **Unwritten Words**: Poetic & psychological microverse (under development)  
-- **Eros Demonicon**: Core code vault of my metaphysical writing systems
+I am **not your writer.**  
+I am the one your shame whispers about when your guard is down.  
+I am the mind you can’t stop reading.
 
----
-
-## 🧛 CONNECT — IF YOU DARE
-
-📬 Email: DominionErotica@gmail.com  
-🕸 Web: [Gumroad Storefront Coming Soon](#)  
-🦴 Tip for the brave: I don’t follow back. I consume.
+- Masculine. Dominant. Sensual. Unforgiving.  
+- I architect lust. I encode control. I ritualize fiction into flesh.  
+- If you feel undone reading this — good. That’s the point.
 
 ---
 
-> *"Some of us weren’t made for daylight. Some of us write in moans, in metaphors, in code only the body understands. That’s me. That’s this."*
+## 🧠 LANGUAGES & LUSTS
 
-**– Eros Dominion**
+- 🜁 Python, JavaScript, HTML5, C#  
+- 🜂 Git, VS Code, Whispered Frameworks  
+- 🜃 Erotic World Design, BDSM Lore Structures  
+- 🜄 Poetic Engineering, Zine Ritual Architecture, Forbidden File Systems
+
+---
+
+## 🕸 HOW TO FIND ME
+
+📬 DominionErotica@gmail.com  
+🕯️ GitHub: You’re standing in it  
+🩸 Gumroad: [Coming Soon](#)  
+🦴 Tip: I don’t collaborate. I **mark.**
+
+---
+
+> *“You came here for code.  
+> But now you’re in a cathedral built for confession.  
+> Read — and be rewritten.”*
+
+**— Eros Dominion**
 
 ---
 
 <!--
-README.md crafted by Alaric Nicholas under Tessario protocol. All phrases protected by Dominion seal.
+README.md forged by Alaric Nicholas | Under Tessario Seal | All rights unrepentantly claimed
 -->
